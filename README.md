@@ -11,7 +11,7 @@
         <h2>Peace Lily</h2>
         <p>The Peace Lily is a beautiful plant that thrives in low light and is known for its air-purifying qualities.</p>
         <p>$15</p>
-        <img src="https://images.app.goo.gl/azeXJfoc1jUn5xGMA" width="150" height="200">
+        <img src="https://images.app.goo.gl/azeXJfoc1jUn5xGMA" alt="Peace Lily"
         <hr>
         <h2>Zanzibar Gem</h2>
         <p>The Zanzibar Gem is a hardy plant that requires minimal care and can survive in low light conditions making it perfect for beginners.</p>
